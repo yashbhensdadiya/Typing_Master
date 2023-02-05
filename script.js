@@ -10,29 +10,36 @@ const difficultySelect = document.getElementById('difficulty');
 
 // List of words for game
 const words = [
-  'sigh',
-  'tense',
-  'airplane',
+  'signature',
+  'thanos',
+  'quick',
   'ball',
-  'pies',
+  'priyank',
   'juice',
-  'warlike',
-  'bad',
-  'north',
-  'dependent',
-  'steer',
+  'suitable',
+  'worth',
+  'break',
+  'mother',
+  'tree',
+  'frankey',
+  'world',
+  'zibra',
   'silver',
-  'highfalutin',
-  'superficial',
-  'quince',
+  'father',
+  'submit',
+  'dimond',
   'eight',
-  'feeble',
+  'feelings',
   'admit',
+  'anubhav',
+  'sparkle',
+  'reaction',
+  'cricket',
   'drag',
   'loving'
 ];
 
-// Init word
+// Init worxd
 let randomWord;
 
 // Init score
